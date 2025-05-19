@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication3.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder> 
+    <link href="Css/StyleSheet.css" rel="stylesheet" />
+    <link href="Css/PaginasF1.css" rel="stylesheet" />
+    <link href="Css/Projeto.css" rel="stylesheet" />
+    <!-- JAVASCRIPT -->
+    <script src="Javascript/jquery-1.7.2.min.js"></script>
+    <script src="Javascript/flexslider.min.js"></script>
+    <link href="Javascript/flexslider.css" rel="stylesheet" />
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <!-- Cabeçalho -->
+        <div class="cabecalho content-wrap">
+            <div class="logomarca">
+                <asp:Image ID="LogoF1" width=150% ImageUrl="~/Images/F1Icon.png" runat="server" />
+            </div>
+            <div class="barra-titulo">
+      
+            </div>
+            <div class="barra-menu">
+                <asp:HyperLink NavigateUrl="~/Default.aspx" ID="HyperLink1" runat="server">HOME</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink3" NavigateUrl="~/ExibirLog.aspx" runat="server">LOGS</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Contato.aspx" runat="server">CONTATO</asp:HyperLink>
+            </div>
+        </div>
+        <!-- conteúdo -->
+        <div class="conteudo content-wrap">
+            <asp:ContentPlaceHolder ID="Conteudo" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!-- Rodapé -->
+        <div class="rodape">
+            <div class="rodape-conteudo">
+                <p>&copy; <%= DateTime.Now.Year %> Desenvolvido por Leonardo Bitencourt 🏁</p>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

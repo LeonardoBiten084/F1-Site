@@ -1,0 +1,65 @@
+﻿
+/*******Estilos para as páginas dos pilotos, equipes, pistas e campeões********/
+.grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card-piloto {
+    width: 220px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: center;
+    background: #f5f5f5;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    width: 220px;
+}
+
+    .card-piloto:hover {
+        transform: scale(1.03);
+        background-color: #C00000; /* Vermelho escuro */
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .card-piloto img {
+        width: 100%;
+        height: auto;
+    }
+
+    .card-piloto h3 {
+        margin: 10px 0 4px;
+    }
+
+
+.barra-menu {
+    position: absolute;
+    top: 40px;
+    left: 81px;
+    right: 0;
+    height: 40px;
+    text-align: right;
+}
+
+    .barra-menu a {
+        background-color: transparent;
+        color: #333;
+        font-size: 15px;
+        padding: 10px 20px;
+        margin: 5px;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+        .barra-menu a:hover {
+            background-color: #C00000; /* Vermelho escuro, cor da F1 */
+            color: white;
+            border-bottom: none;
+        }

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|c:\\users\\val_o\\onedrive\\documentos\\c#\\projetos\\meu projeto site\\webapplication3\\webapplication3\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\css\\paginasf1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\css\\paginasf1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\pilotos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pilotos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\campe\u00F5es.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\campe\u00F5es.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\pistas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pistas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\webapplication3\\equipes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A38F9093-14CA-4D47-9272-00E64AD58A6A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\equipes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projeto.css",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\Projeto.css",
+              "RelativeDocumentMoniker": "WebApplication3\\Css\\Projeto.css",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\Projeto.css",
+              "RelativeToolTip": "WebApplication3\\Css\\Projeto.css",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-01T15:45:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication3\\Site.Master",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Site.Master",
+              "RelativeToolTip": "WebApplication3\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-07T12:51:19.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "WebApplication3\\Css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\StyleSheet.css",
+              "RelativeToolTip": "WebApplication3\\Css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-01T15:44:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginasF1.css",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\PaginasF1.css",
+              "RelativeDocumentMoniker": "WebApplication3\\Css\\PaginasF1.css",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Css\\PaginasF1.css",
+              "RelativeToolTip": "WebApplication3\\Css\\PaginasF1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-03T13:52:48.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pilotos.aspx",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Pilotos.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\Pilotos.aspx",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Pilotos.aspx",
+              "RelativeToolTip": "WebApplication3\\Pilotos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T18:33:39.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipes.aspx",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Equipes.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\Equipes.aspx",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Equipes.aspx",
+              "RelativeToolTip": "WebApplication3\\Equipes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T19:06:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pistas.aspx",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Pistas.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\Pistas.aspx",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Pistas.aspx",
+              "RelativeToolTip": "WebApplication3\\Pistas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T19:09:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Campe\u00F5es.aspx",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Campe\u00F5es.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\Campe\u00F5es.aspx",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Campe\u00F5es.aspx",
+              "RelativeToolTip": "WebApplication3\\Campe\u00F5es.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T19:10:58.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\Default.aspx",
+              "ToolTip": "C:\\Users\\val_o\\OneDrive\\Documentos\\C#\\Projetos\\Meu Projeto Site\\WebApplication3\\WebApplication3\\Default.aspx",
+              "RelativeToolTip": "WebApplication3\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-01T15:37:48.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
